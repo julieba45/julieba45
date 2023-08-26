@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about ...Soft skills
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/julie-barreto-415105289/)
-- 😄 Pronouns: ...She/her
+- 😄 Pronouns: ...She/her 
 - ⚡ Fun fact: ...
 -->
