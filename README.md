@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/julie-barreto-415105289/)
 - 😄 Pronouns: ...She/her 
 
+
+Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
