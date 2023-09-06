@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Bloom project
-- 🌱 I’m currently learning TyepScript
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about ...Soft skills
