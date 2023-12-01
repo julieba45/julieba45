@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Docker
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/julie-barreto-415105289/)
 -->
 
 - 🔭 I’m currently working on Bloom project
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Docker
 - 💬 Ask me about ...Soft skills
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/julie-barreto-415105289/)
 - 😄 Pronouns: ...She/her 
 
 
