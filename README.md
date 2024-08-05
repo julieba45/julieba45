@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/julie-barreto-415105289/)
 -->
 
-- 🔭 I’m currently working on Bloom project
-- 🌱 I’m currently learning Swift
+- 🔭 I’m currently working on finding a new project
+- 🌱 I’m currently learning Rust and exploring its applications in systems programming and blockchain.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ...Soft skills
 - 😄 Pronouns: ...She/her 
@@ -30,4 +30,6 @@ Languages and Tools:
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![NLP](https://img.shields.io/badge/-NLP-black?style=flat-square&logo=)
+
 
