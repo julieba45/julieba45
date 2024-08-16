@@ -1,20 +1,4 @@
-### Hello World, I'm Julie - Software Engineer 👋
 
-<!--
-**julieba45/julieba45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with Docker
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/julie-barreto-415105289/)
--->
-
-- 🔭 I’m currently working on finding a new project
-- 🌱 I’m currently learning Rust and exploring its applications in systems programming and blockchain.
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ...Soft skills
-- 😄 Pronouns: ...She/her 
 
 
 Languages and Tools:
